@@ -1,5 +1,5 @@
 # Life Insurance Management System
-A dashboard website for a Life Insurance Company
+A dashboard website for a Life Insurance Company.
 Built using **PHP**, **MySQL**, **HTML**, **CSS**
 
 Login, logout, session, multilevel access, image uploads
