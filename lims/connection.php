@@ -1,5 +1,6 @@
 <?php
 
+//EDIT Your Database name, Username and Password here
 $servername = "localhost";
 $username   = "root";
 $password   = "root";
