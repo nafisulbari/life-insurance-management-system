@@ -3,7 +3,7 @@ A dashboard website for a Life Insurance Company
 Built using **PHP**, **MySQL**, **HTML**, **CSS**
 
 Login, logout, session, multilevel access, image uploads
-are implemented here
+are implemented here.
 
 ## Features
 - Agents can create clients
