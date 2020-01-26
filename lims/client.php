@@ -88,7 +88,7 @@ tr:nth-child(even) {
 				     
 						   
 						<button class="btn" align="center"> 
-						<a href="addclient.php" class="btn">Add Client</a>
+						<a href="addClient.php" class="btn">Add Client</a>
 						</button>
 						</h1>
                     </div>
